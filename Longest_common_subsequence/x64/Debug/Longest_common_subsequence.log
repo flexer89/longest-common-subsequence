@@ -1,0 +1,11 @@
+﻿  Longest_common_subsequence.cpp
+C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\Longest_common_subsequence\Longest_common_subsequence.cpp(15,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\Longest_common_subsequence\Longest_common_subsequence.cpp(16,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  functions.cpp
+C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\Longest_common_subsequence\functions.cpp(40,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\Longest_common_subsequence\functions.cpp(41,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\Longest_common_subsequence\functions.cpp(65,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\Longest_common_subsequence\functions.cpp(66,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\Longest_common_subsequence\functions.cpp(86,24): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Longest_common_subsequence.vcxproj -> C:\Users\olsza\Desktop\Uczelnia\SEM3\AiSD\Projekt\Longest_common_subsequence\x64\Debug\Longest_common_subsequence.exe
