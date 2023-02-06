@@ -32,8 +32,3 @@ Najdluzszy wspolny podciag politechnika i toaleta to: olea
 ```
 
 
-## TO DO
-- Exception handling
-- Add more Drinks
-- OOP mode
-- More complex Report
